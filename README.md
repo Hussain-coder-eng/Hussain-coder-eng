@@ -1,7 +1,7 @@
 ## Hi, I'm Hussain ⚡️
 
   🧠 I'm a AI Engineering student at Penn State University<br/>
-  🦾 create websites featuring ai machine learning to stay consistent<br/>
+  🦾 Love exploring these new technologies and models as they come out !<br/>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hussain-altufayli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hussainaltufayli288@gmail.com) 
 
