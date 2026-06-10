@@ -6,48 +6,90 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;duration=2600&amp;pause=900&amp;color=39FF14&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Hussain+Altufayli;AI+Engineering+student+at+Penn+State;Building+with+software%2C+models%2C+and+hardware" alt="Typing SVG: Hussain Altufayli, AI Engineering student at Penn State, building with software, models, and hardware" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;duration=2600&amp;pause=900&amp;color=39FF14&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Hussain+Altufayli;AI+Engineering+at+Penn+State;AI%2FML+builder+and+product-minded+engineer" alt="Typing SVG: Hussain Altufayli, AI Engineering at Penn State, AI/ML builder and product-minded engineer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=2800&amp;pause=1000&amp;color=7CFF6B&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Exploring+new+technologies+and+models;Machine+learning+projects+and+AI+tools;Arduino%2C+Raspberry+Pi%2C+and+real-world+builds" alt="Typing SVG: exploring new technologies and models, machine learning projects and AI tools, Arduino, Raspberry Pi, and real-world builds" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=2800&amp;pause=1000&amp;color=7CFF6B&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=LLM%2FRAG+products+and+agentic+workflows;NLP%2C+sentiment%2C+and+predictive+ML;AI+dashboards+and+geospatial+workflows" alt="Typing SVG: LLM/RAG products and agentic workflows, NLP sentiment and predictive ML, AI dashboards and geospatial workflows" />
 </p>
 
 ## About Me
 
-I am Hussain Altufayli, an AI Engineering student at Penn State University focused on practical software, machine learning, and hands-on technical projects.
+I am Hussain Altufayli, an AI Engineering student at Penn State University with a 3.67 GPA and an expected graduation date of May 2029. I build AI/ML systems with product judgment: clear API contracts, model-backed workflows, useful interfaces, and metrics that help teams decide what to ship next.
 
-I love exploring new technologies and models as they come out, then turning that curiosity into working projects: ML experiments, AI-assisted tools, software prototypes, and hardware builds with Arduino and Raspberry Pi.
+I am an incoming AI Enabled Intern at Avis Budget Group for June 2026-August 2026. Previously, I was an AI Engineering Intern at WanderBug AI, where I shipped production-level iOS features that activated agentic workflows, defined REST API contracts between client and server, and owned RAG design plus prompt engineering for LLMs that transformed user queries into personalized geospatial routes.
 
-## Current Focus
+## Role Fit
 
-- Studying AI Engineering at Penn State University.
-- Building software projects that connect clean interfaces with useful AI and ML workflows.
-- Experimenting with models, data tools, and visualization libraries as the ecosystem evolves.
-- Exploring hardware projects with Arduino and Raspberry Pi when code needs to meet the physical world.
+- Translate ambiguous user problems into model-backed product workflows, from LLM/RAG route generation to NLP inference dashboards and telemetry classifiers.
+- Define REST API contracts and client-server boundaries so AI features can move from prototype to production without losing product clarity.
+- Build metrics, dashboards, and explainability views with Pandas, Plotly, SHAP, Recharts, and model validation workflows.
+- Prototype quickly while keeping delivery habits grounded in Git, code reviews, debugging/profiling, and production deployment.
+- Connect user impact to implementation details, including scheduling and notification systems at WanderBug that supported 400+ users.
 
-## Tech / Tools
+## Experience Signals
+
+- WanderBug AI: collaborated in a founding team of three engineers, built Swift iOS features, designed RAG and prompts for personalized geospatial routes, and used rapid prototyping, version control, and code reviews to ship production workflows.
+- Reflexion VR: produced data-driven insights for the NFL, NASCAR, and the Women's National Boxing Team; tested AI-driven VR/AR features using behavior and performance metrics; documented rendering/performance defects; proposed ML-based adaptive training features.
+- IU13: built 10+ production pages with HTML5, Bootstrap, and C#; translated business requirements into deployed solutions; configured 100+ devices for reliable field use.
+
+## Selected Projects
+
+- Drawn: AI-powered GPS art route product for shape, text, and draw-based route generation. Built with React 19, TypeScript, Tailwind CSS 4, Google Gemini 2.5 Flash, React-Leaflet, OpenStreetMap, Overpass API, OSRM, OpenRouteService fallback, Turf.js, Firebase Auth/Firestore, and Motion/Framer Motion. Product features include AI anchor selection, route scoring/retry, live GPS run navigation, GPX export, and Apple/Google Maps handoff.
+- LatentLap-AI: telemetry ML system for predicting hidden tire degradation states from 2021-2025 Silverstone/McLaren FastF1 data. Built with Python, Pandas, NumPy, SciPy/Savitzky-Golay smoothing, XGBoost, scikit-learn metrics, SHAP/native XGBoost contribution explainability, Plotly reports, Next.js 14, React 18, TypeScript, Recharts, Three.js/react-three-fiber, and Tailwind.
+- Amazon Reviews Sentiment Analysis: NLP project analyzing 5,000+ Amazon food reviews with preprocessing, tokenization, model training, dashboarding, and inference visualization. Used NLTK, Transformers, TensorFlow, PyTorch, RoBERTa, VADER, Plotly, Pandas, and NumPy.
+
+## AI / ML
 
 <p>
-  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&amp;logo=csharp&amp;logoColor=39FF14" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-111111?style=for-the-badge&amp;logo=openjdk&amp;logoColor=39FF14" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&amp;logo=html5&amp;logoColor=39FF14" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-111111?style=for-the-badge&amp;logo=python&amp;logoColor=39FF14" />
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-111111?style=for-the-badge&amp;logo=swift&amp;logoColor=39FF14" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&amp;logo=javascript&amp;logoColor=39FF14" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&amp;logo=pandas&amp;logoColor=39FF14" />
+  <img alt="LLM Integration" src="https://img.shields.io/badge/LLM_Integration-111111?style=for-the-badge&amp;logo=openai&amp;logoColor=39FF14" />
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-111111?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=39FF14" />
+  <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt_Engineering-111111?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=39FF14" />
+  <img alt="Transformers" src="https://img.shields.io/badge/Transformers-111111?style=for-the-badge&amp;logo=huggingface&amp;logoColor=39FF14" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&amp;logo=pytorch&amp;logoColor=39FF14" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=39FF14" />
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-111111?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=39FF14" />
+  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-111111?style=for-the-badge&amp;logo=python&amp;logoColor=39FF14" />
+  <img alt="NLTK" src="https://img.shields.io/badge/NLTK-111111?style=for-the-badge&amp;logo=python&amp;logoColor=39FF14" />
+  <img alt="RoBERTa" src="https://img.shields.io/badge/RoBERTa-111111?style=for-the-badge&amp;logo=huggingface&amp;logoColor=39FF14" />
+  <img alt="VADER" src="https://img.shields.io/badge/VADER-111111?style=for-the-badge&amp;logo=python&amp;logoColor=39FF14" />
+  <img alt="SHAP" src="https://img.shields.io/badge/SHAP-111111?style=for-the-badge&amp;logo=python&amp;logoColor=39FF14" />
+</p>
+
+## Data / Analytics
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-111111?style=for-the-badge&amp;logo=python&amp;logoColor=39FF14" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&amp;logo=pandas&amp;logoColor=39FF14" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&amp;logo=numpy&amp;logoColor=39FF14" />
   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-111111?style=for-the-badge&amp;logo=plotly&amp;logoColor=39FF14" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&amp;logo=pytorch&amp;logoColor=39FF14" />
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&amp;logo=python&amp;logoColor=39FF14" />
-  <img alt="Keras" src="https://img.shields.io/badge/Keras-111111?style=for-the-badge&amp;logo=keras&amp;logoColor=39FF14" />
-  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-111111?style=for-the-badge&amp;logo=mlflow&amp;logoColor=39FF14" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&amp;logo=github&amp;logoColor=39FF14" />
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-111111?style=for-the-badge&amp;logo=arduino&amp;logoColor=39FF14" />
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-111111?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=39FF14" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-111111?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=39FF14" />
-  <img alt="Adobe InDesign" src="https://img.shields.io/badge/Adobe_InDesign-111111?style=for-the-badge&amp;logo=adobeindesign&amp;logoColor=39FF14" />
+  <img alt="FastF1" src="https://img.shields.io/badge/FastF1-111111?style=for-the-badge&amp;logo=formula1&amp;logoColor=39FF14" />
+  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-111111?style=for-the-badge&amp;logo=kaggle&amp;logoColor=39FF14" />
+  <img alt="Data Visualization" src="https://img.shields.io/badge/Data_Visualization-111111?style=for-the-badge&amp;logo=plotly&amp;logoColor=39FF14" />
+</p>
+
+## Product Engineering
+
+<p>
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-111111?style=for-the-badge&amp;logo=swift&amp;logoColor=39FF14" />
+  <img alt="React" src="https://img.shields.io/badge/React-111111?style=for-the-badge&amp;logo=react&amp;logoColor=39FF14" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&amp;logo=typescript&amp;logoColor=39FF14" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=39FF14" />
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge&amp;logo=fastapi&amp;logoColor=39FF14" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&amp;logo=firebase&amp;logoColor=39FF14" />
+  <img alt="AWS SageMaker" src="https://img.shields.io/badge/AWS_SageMaker-111111?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=39FF14" />
+  <img alt="SQL/MySQL" src="https://img.shields.io/badge/SQL%2FMySQL-111111?style=for-the-badge&amp;logo=mysql&amp;logoColor=39FF14" />
+</p>
+
+## Product / Delivery
+
+<p>
+  <img alt="API Contracts" src="https://img.shields.io/badge/API_Contracts-111111?style=for-the-badge&amp;logo=postman&amp;logoColor=39FF14" />
+  <img alt="Production Deployment" src="https://img.shields.io/badge/Production_Deployment-111111?style=for-the-badge&amp;logo=githubactions&amp;logoColor=39FF14" />
+  <img alt="Mobile Performance" src="https://img.shields.io/badge/Mobile_Performance-111111?style=for-the-badge&amp;logo=apple&amp;logoColor=39FF14" />
+  <img alt="Debugging/Profiling" src="https://img.shields.io/badge/Debugging%2FProfiling-111111?style=for-the-badge&amp;logo=visualstudio&amp;logoColor=39FF14" />
+  <img alt="VR/AR" src="https://img.shields.io/badge/VR%2FAR-111111?style=for-the-badge&amp;logo=meta&amp;logoColor=39FF14" />
+  <img alt="User Metrics" src="https://img.shields.io/badge/User_Metrics-111111?style=for-the-badge&amp;logo=googleanalytics&amp;logoColor=39FF14" />
 </p>
 
 ## Connect
