@@ -17,7 +17,7 @@
 
 I am Hussain Altufayli, an AI Engineering student at Penn State University with a 3.67 GPA and an expected graduation date of May 2029. I build AI/ML systems with product judgment: clear API contracts, model-backed workflows, useful interfaces, and metrics that help teams decide what to ship next.
 
-I am an incoming AI Enabled Intern at Avis Budget Group for June 2026-August 2026. Previously, I was an AI Engineering Intern at WanderBug AI, where I shipped production-level iOS features that activated agentic workflows, defined REST API contracts between client and server, and owned RAG design plus prompt engineering for LLMs that transformed user queries into personalized geospatial routes.
+I am an AI Enabled Intern at Avis Budget Group for Summer 2026. Previously, I was an AI Engineering Intern at WanderBug AI, where I shipped production-level iOS features that activated agentic workflows, defined REST API contracts between client and server, and owned RAG design plus prompt engineering for LLMs that transformed user queries into personalized geospatial routes.
 
 ## Role Fit
 
