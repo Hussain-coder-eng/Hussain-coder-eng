@@ -1,35 +1,21 @@
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="middle">
-      <table border="0" cellspacing="0" cellpadding="2" bgcolor="#39FF14">
-        <tr>
-          <td>
-            <table border="0" cellspacing="0" cellpadding="16" bgcolor="#050805">
-              <tr>
-                <td width="760">
-                  <code>$ whoami</code><br />
-                  <code>Hussain Altufayli</code><br />
-                  <code>$ current-role</code><br />
-                  <code>AI Engineering Intern at Avis Budget Group</code><br />
-                  <code>$ focus</code><br />
-                  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2600&amp;pause=900&amp;color=39FF14&amp;vCenter=true&amp;width=720&amp;lines=AI%2FML+builder+%2B+product-minded+engineer;LLM%2FRAG+products+and+agentic+workflows;NLP%2C+sentiment%2C+and+predictive+ML;AI+dashboards+and+geospatial+workflows" alt="Typing SVG: AI/ML builder plus product-minded engineer, LLM/RAG products and agentic workflows, NLP sentiment and predictive ML, AI dashboards and geospatial workflows" />
-                </td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="16"></td>
-    <td valign="middle">
-      <img src="Assets/battery.svg" alt="Battery indicator" width="120" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/Hussain-coder-eng">
+    <img src="Assets/terminal-green.svg" alt="Terminal prompt reading Hussain Altufayli" width="420" />
+  </a>
+  <img src="Assets/battery.svg" alt="Battery indicator" width="120" />
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;duration=2600&amp;pause=900&amp;color=39FF14&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Hussain+Altufayli;AI+Engineering+Intern+at+Avis+Budget+Group;AI+Engineering+at+Penn+State" alt="Typing SVG: Hussain Altufayli, AI Engineering Intern at Avis Budget Group, AI Engineering at Penn State" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=2800&amp;pause=1000&amp;color=7CFF6B&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=AI%2FML+builder+%2B+product-minded+engineer;LLM%2FRAG+products+and+agentic+workflows;NLP%2C+sentiment%2C+and+predictive+ML;AI+dashboards+and+geospatial+workflows" alt="Typing SVG: AI/ML builder plus product-minded engineer, LLM/RAG products and agentic workflows, NLP sentiment and predictive ML, AI dashboards and geospatial workflows" />
+</p>
 
 ## About Me
 
-I am Hussain Altufayli, an AI Engineering student at Penn State University with a 3.67 GPA and an expected graduation date of May 2029. I build AI/ML systems with product judgment: clear API contracts, model-backed workflows, useful interfaces, and metrics that help teams decide what to ship next.
+I am Hussain Altufayli, an AI Engineering student at Penn State University with an expected graduation date of May 2029. I build AI/ML systems with product judgment: clear API contracts, model-backed workflows, useful interfaces, and metrics that help teams decide what to ship next.
 
 I am an AI Engineering Intern at Avis Budget Group for Summer 2026. Previously, I was an AI Engineering Intern at WanderBug AI, where I shipped production-level iOS features that activated agentic workflows, defined REST API contracts between client and server, and owned RAG design plus prompt engineering for LLMs that transformed user queries into personalized geospatial routes.
 
@@ -46,12 +32,6 @@ I am an AI Engineering Intern at Avis Budget Group for Summer 2026. Previously, 
 - WanderBug AI: collaborated in a founding team of three engineers, built Swift iOS features, designed RAG and prompts for personalized geospatial routes, and used rapid prototyping, version control, and code reviews to ship production workflows.
 - Reflexion VR: produced data-driven insights for the NFL, NASCAR, and the Women's National Boxing Team; tested AI-driven VR/AR features using behavior and performance metrics; documented rendering/performance defects; proposed ML-based adaptive training features.
 - IU13: built 10+ production pages with HTML5, Bootstrap, and C#; translated business requirements into deployed solutions; configured 100+ devices for reliable field use.
-
-## Selected Projects
-
-- Drawn: AI-powered GPS art route product for shape, text, and draw-based route generation. Built with React 19, TypeScript, Tailwind CSS 4, Google Gemini 2.5 Flash, React-Leaflet, OpenStreetMap, Overpass API, OSRM, OpenRouteService fallback, Turf.js, Firebase Auth/Firestore, and Motion/Framer Motion. Product features include AI anchor selection, route scoring/retry, live GPS run navigation, GPX export, and Apple/Google Maps handoff.
-- LatentLap-AI: telemetry ML system for predicting hidden tire degradation states from 2021-2025 Silverstone/McLaren FastF1 data. Built with Python, Pandas, NumPy, SciPy/Savitzky-Golay smoothing, XGBoost, scikit-learn metrics, SHAP/native XGBoost contribution explainability, Plotly reports, Next.js 14, React 18, TypeScript, Recharts, Three.js/react-three-fiber, and Tailwind.
-- Amazon Reviews Sentiment Analysis: NLP project analyzing 5,000+ Amazon food reviews with preprocessing, tokenization, model training, dashboarding, and inference visualization. Used NLTK, Transformers, TensorFlow, PyTorch, RoBERTa, VADER, Plotly, Pandas, and NumPy.
 
 ## AI / ML
 
