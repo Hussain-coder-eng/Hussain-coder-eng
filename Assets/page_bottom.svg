@@ -1,0 +1,17 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal page bottom divider</title>
+  <desc id="desc">A green terminal style footer divider with scan lines.</desc>
+  <rect width="1200" height="180" fill="#050805"/>
+  <path d="M0 34H1200" stroke="#39FF14" stroke-width="2" opacity="0.85"/>
+  <path d="M0 74H1200" stroke="#39FF14" stroke-width="1" opacity="0.35"/>
+  <path d="M0 114H1200" stroke="#39FF14" stroke-width="1" opacity="0.22"/>
+  <path d="M0 154H1200" stroke="#39FF14" stroke-width="1" opacity="0.16"/>
+  <text x="42" y="57" fill="#39FF14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="22" font-weight="700">$ keep building</text>
+  <text x="42" y="102" fill="#D8FFD4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="18">profile repo: github.com/Hussain-coder-eng/Hussain-coder-eng</text>
+  <g opacity="0.85">
+    <rect x="944" y="44" width="214" height="42" rx="6" stroke="#39FF14" stroke-width="2"/>
+    <path d="M972 65H1130" stroke="#39FF14" stroke-width="3" stroke-linecap="round"/>
+    <path d="M972 65L994 51" stroke="#39FF14" stroke-width="3" stroke-linecap="round"/>
+    <path d="M972 65L994 79" stroke="#39FF14" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>

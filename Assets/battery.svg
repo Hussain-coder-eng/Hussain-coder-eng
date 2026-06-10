@@ -1,0 +1,11 @@
+<svg width="240" height="168" viewBox="0 0 240 168" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Green battery indicator</title>
+  <desc id="desc">A full battery icon in terminal green.</desc>
+  <rect x="18" y="56" width="178" height="58" rx="8" fill="#050805" stroke="#39FF14" stroke-width="6"/>
+  <rect x="202" y="73" width="20" height="24" rx="4" fill="#39FF14"/>
+  <rect x="34" y="72" width="30" height="26" rx="3" fill="#39FF14"/>
+  <rect x="72" y="72" width="30" height="26" rx="3" fill="#39FF14"/>
+  <rect x="110" y="72" width="30" height="26" rx="3" fill="#39FF14"/>
+  <rect x="148" y="72" width="30" height="26" rx="3" fill="#39FF14"/>
+  <text x="120" y="142" text-anchor="middle" fill="#7CFF6B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="700">BUILD MODE</text>
+</svg>
