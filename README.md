@@ -33,12 +33,6 @@ I am an AI Engineering Intern at Avis Budget Group for Summer 2026. Previously, 
 - Reflexion VR: produced data-driven insights for the NFL, NASCAR, and the Women's National Boxing Team; tested AI-driven VR/AR features using behavior and performance metrics; documented rendering/performance defects; proposed ML-based adaptive training features.
 - IU13: built 10+ production pages with HTML5, Bootstrap, and C#; translated business requirements into deployed solutions; configured 100+ devices for reliable field use.
 
-## Selected Projects
-
-- Drawn: AI-powered GPS art route product for shape, text, and draw-based route generation. Built with React 19, TypeScript, Tailwind CSS 4, Google Gemini 2.5 Flash, React-Leaflet, OpenStreetMap, Overpass API, OSRM, OpenRouteService fallback, Turf.js, Firebase Auth/Firestore, and Motion/Framer Motion. Product features include AI anchor selection, route scoring/retry, live GPS run navigation, GPX export, and Apple/Google Maps handoff.
-- LatentLap-AI: telemetry ML system for predicting hidden tire degradation states from 2021-2025 Silverstone/McLaren FastF1 data. Built with Python, Pandas, NumPy, SciPy/Savitzky-Golay smoothing, XGBoost, scikit-learn metrics, SHAP/native XGBoost contribution explainability, Plotly reports, Next.js 14, React 18, TypeScript, Recharts, Three.js/react-three-fiber, and Tailwind.
-- Amazon Reviews Sentiment Analysis: NLP project analyzing 5,000+ Amazon food reviews with preprocessing, tokenization, model training, dashboarding, and inference visualization. Used NLTK, Transformers, TensorFlow, PyTorch, RoBERTa, VADER, Plotly, Pandas, and NumPy.
-
 ## AI / ML
 
 <p>
