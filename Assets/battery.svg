@@ -7,5 +7,5 @@
   <rect x="72" y="72" width="30" height="26" rx="3" fill="#39FF14"/>
   <rect x="110" y="72" width="30" height="26" rx="3" fill="#39FF14"/>
   <rect x="148" y="72" width="30" height="26" rx="3" fill="#39FF14"/>
-  <text x="120" y="142" text-anchor="middle" fill="#7CFF6B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="700">BUILD MODE</text>
+  <text x="120" y="142" text-anchor="middle" fill="#7CFF6B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700">SOCIAL BATTERY</text>
 </svg>
