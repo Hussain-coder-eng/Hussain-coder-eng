@@ -1,23 +1,37 @@
-<div align="center">
-  <a href="https://github.com/Hussain-coder-eng">
-    <img src="Assets/terminal-green.svg" alt="Terminal prompt reading Hussain-coder-eng" width="420" />
-  </a>
-  <img src="Assets/battery.svg" alt="Battery indicator" width="120" />
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;duration=2600&amp;pause=900&amp;color=39FF14&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Hussain+Altufayli;AI+Engineering+at+Penn+State;AI%2FML+builder+and+product-minded+engineer" alt="Typing SVG: Hussain Altufayli, AI Engineering at Penn State, AI/ML builder and product-minded engineer" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=2800&amp;pause=1000&amp;color=7CFF6B&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=LLM%2FRAG+products+and+agentic+workflows;NLP%2C+sentiment%2C+and+predictive+ML;AI+dashboards+and+geospatial+workflows" alt="Typing SVG: LLM/RAG products and agentic workflows, NLP sentiment and predictive ML, AI dashboards and geospatial workflows" />
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="middle">
+      <table border="0" cellspacing="0" cellpadding="2" bgcolor="#39FF14">
+        <tr>
+          <td>
+            <table border="0" cellspacing="0" cellpadding="16" bgcolor="#050805">
+              <tr>
+                <td width="760">
+                  <code>$ whoami</code><br />
+                  <code>Hussain Altufayli</code><br />
+                  <code>$ current-role</code><br />
+                  <code>AI Engineering Intern at Avis Budget Group</code><br />
+                  <code>$ focus</code><br />
+                  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2600&amp;pause=900&amp;color=39FF14&amp;vCenter=true&amp;width=720&amp;lines=AI%2FML+builder+%2B+product-minded+engineer;LLM%2FRAG+products+and+agentic+workflows;NLP%2C+sentiment%2C+and+predictive+ML;AI+dashboards+and+geospatial+workflows" alt="Typing SVG: AI/ML builder plus product-minded engineer, LLM/RAG products and agentic workflows, NLP sentiment and predictive ML, AI dashboards and geospatial workflows" />
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="16"></td>
+    <td valign="middle">
+      <img src="Assets/battery.svg" alt="Battery indicator" width="120" />
+    </td>
+  </tr>
+</table>
 
 ## About Me
 
 I am Hussain Altufayli, an AI Engineering student at Penn State University with a 3.67 GPA and an expected graduation date of May 2029. I build AI/ML systems with product judgment: clear API contracts, model-backed workflows, useful interfaces, and metrics that help teams decide what to ship next.
 
-I am an AI Enabled Intern at Avis Budget Group for Summer 2026. Previously, I was an AI Engineering Intern at WanderBug AI, where I shipped production-level iOS features that activated agentic workflows, defined REST API contracts between client and server, and owned RAG design plus prompt engineering for LLMs that transformed user queries into personalized geospatial routes.
+I am an AI Engineering Intern at Avis Budget Group for Summer 2026. Previously, I was an AI Engineering Intern at WanderBug AI, where I shipped production-level iOS features that activated agentic workflows, defined REST API contracts between client and server, and owned RAG design plus prompt engineering for LLMs that transformed user queries into personalized geospatial routes.
 
 ## Role Fit
 
@@ -97,9 +111,6 @@ I am an AI Enabled Intern at Avis Budget Group for Summer 2026. Previously, I wa
 <p>
   <a href="https://github.com/Hussain-coder-eng">
     <img alt="Follow Hussain Altufayli on GitHub" src="https://img.shields.io/github/followers/Hussain-coder-eng?label=Follow%20on%20GitHub&amp;style=for-the-badge&amp;color=39FF14&amp;labelColor=111111" />
-  </a>
-  <a href="https://github.com/Hussain-coder-eng/Hussain-coder-eng">
-    <img alt="Profile repository" src="https://img.shields.io/badge/Profile_Repo-Hussain-coder-eng%2FHussain-coder-eng-111111?style=for-the-badge&amp;logo=github&amp;logoColor=39FF14" />
   </a>
   <a href="https://linkedin.com/in/hussain-altufayli">
     <img alt="Connect with Hussain Altufayli on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hussain_Altufayli-111111?style=for-the-badge&amp;logo=linkedin&amp;logoColor=39FF14" />
