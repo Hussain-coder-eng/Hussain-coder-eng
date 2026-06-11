@@ -6,11 +6,11 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;duration=2600&amp;pause=900&amp;color=39FF14&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Hussain+Altufayli;AI+Engineering+Intern+at+Avis+Budget+Group;AI+Engineering+at+Penn+State" alt="Typing SVG: Hussain Altufayli, AI Engineering Intern at Avis Budget Group, AI Engineering at Penn State" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=21&amp;duration=3600&amp;pause=1200&amp;color=39FF14&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Hussain+Altufayli;AI+Engineering+Intern+at+Avis+Budget+Group;AI+Engineering+at+Penn+State" alt="Typing SVG: Hussain Altufayli, AI Engineering Intern at Avis Budget Group, AI Engineering at Penn State" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=2800&amp;pause=1000&amp;color=7CFF6B&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=AI%2FML+builder+%2B+product-minded+engineer;LLM%2FRAG+products+and+agentic+workflows;NLP%2C+sentiment%2C+and+predictive+ML;AI+dashboards+and+geospatial+workflows" alt="Typing SVG: AI/ML builder plus product-minded engineer, LLM/RAG products and agentic workflows, NLP sentiment and predictive ML, AI dashboards and geospatial workflows" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=500&amp;size=16&amp;duration=3800&amp;pause=1300&amp;color=7CFF6B&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=AI%2FML+builder+%2B+product-minded+engineer;LLM%2FRAG+products+and+agentic+workflows;NLP%2C+sentiment%2C+and+predictive+ML;AI+dashboards+and+geospatial+workflows" alt="Typing SVG: AI/ML builder plus product-minded engineer, LLM/RAG products and agentic workflows, NLP sentiment and predictive ML, AI dashboards and geospatial workflows" />
 </p>
 
 ## About Me
